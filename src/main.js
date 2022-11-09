@@ -54,7 +54,7 @@ require(['marked', 'd3'], function(marked, d3) {
 
     function locationHashChanged() {
         if (location.hash.length > 0) {
-            const url = location.hash.replace('#!', '../');
+            const url = location.hash.replace('#!', '');
             renderMarkdownPage(url);
         } else {
             renderMarkdownPage(home);
