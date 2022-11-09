@@ -5,7 +5,7 @@ require.config({
     }
 })
 
-const home = '../content/home.md';
+const home = 'content/home.md';
 
 require(['marked', 'd3'], function(marked, d3) {
     fetch('config.json')
