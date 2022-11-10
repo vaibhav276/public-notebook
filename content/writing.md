@@ -1,5 +1,9 @@
 # Writing
 
+
+## Essays
+Sometimes I stumble upon a thought while conversing/arguing with someone. The conversation ends, the argument settles (or not), but the thought keeps growing in me. Then it becomes a thing that needs to be taken care of, for the sake of moving on, so I write it down. Most of the times though, I don't write stuff down. I wonder what happens to those thoughts.
+
 * [Data, Information and Technology](#!content/writing/2020-10-23-data-information-technology.md) ... *Oct 23, 2020*
 * [The Promise (Poem)](#!content/writing/2020-08-21-the-promise.md) ... *Aug 21, 2020*
 * [Concrete Mind in a plastic world](#!content/writing/2020-01-02-concrete-mind-plastic-world.md) ... *Jan 2, 2020*
