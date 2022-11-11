@@ -1,8 +1,8 @@
 {
     "title": "Home",
     "navigation": {
-        "Writing": "#!content/writing.md",
-        "Reading": "#!content/reading.md"
+        "Essays": "#!content/essays.md",
+        "Book Notes": "#!content/book-notes.md"
     },
     "themeName": "journal",
     "themeStyle": "light"

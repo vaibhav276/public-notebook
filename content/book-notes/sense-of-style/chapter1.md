@@ -1,4 +1,4 @@
-[Sense of Style](#!content/reading/sense-of-style/index.md) > Chapter 1: Good writing
+[Sense of Style](#!content/book-notes/sense-of-style/index.md) > Chapter 1: Good writing
 
 # Chapter 1: Good Writing
 
