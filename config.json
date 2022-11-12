@@ -1,8 +1,8 @@
 {
     "title": "Home",
     "navigation": {
-        "Essays": "#!content/essays.md",
-        "Book Notes": "#!content/book-notes.md"
+        "Essays": "#!content/Essays/index.md",
+        "Book Notes": "#!content/Book_Notes/index.md"
     },
     "themeName": "journal",
     "themeStyle": "light"
