@@ -5,7 +5,7 @@ require.config({
     }
 })
 
-const home = 'content/home.md';
+const home = 'content/index.md';
 
 require(['marked', 'd3'], function(marked, d3) {
     fetch('config.json')
@@ -62,6 +62,29 @@ require(['marked', 'd3'], function(marked, d3) {
     }
 
     function renderMarkdownPage(url, cb) {
+        let breadcrumbs = url.split("/");
+        let breadCrumbs = d3.select("#breadcrumbs").html('');
+        if (breadcrumbs.length > 3) {
+            breadcrumbs = breadcrumbs.slice(1, breadcrumbs.length - 1);
+
+            breadCrumbs = breadCrumbs.append('nav')
+                .attr('aria-label', 'breadcrumb')
+                .append('ol')
+                .attr('class', 'breadcrumb');
+
+            const links = breadCrumbLinks(breadcrumbs);
+            for (let i = 0; i < breadcrumbs.length - 1; i++) {
+                breadCrumbs.append('li')
+                    .attr('class', 'breadcrumb-item')
+                    .append('a')
+                    .attr('class', 'link')
+                    .attr('href', links[i])
+                    .text(breadcrumbs[i].replaceAll('_', ' '));
+            }
+            breadCrumbs.append('li')
+                .attr('class', 'breadcrumb-item')
+                .text(breadcrumbs[breadcrumbs.length - 1].replaceAll('_', ' '));
+        } 
         fetch(url)
             .then(response => response.text())
             .then(data => {
@@ -69,5 +92,15 @@ require(['marked', 'd3'], function(marked, d3) {
                 if (cb != undefined && cb != null) cb();
             })
             .catch(err => console.error(err));
+    }
+
+    function breadCrumbLinks(arr) {
+        let link = '#!content/'
+        let ret = [];
+        for(let i = 0; i < arr.length; i++) {
+            link = link + arr[i] + '/';
+            ret.push(link + 'index.md');
+        }
+        return ret;
     }
 });

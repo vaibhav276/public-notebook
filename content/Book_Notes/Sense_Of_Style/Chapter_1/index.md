@@ -1,6 +1,4 @@
-[Sense of Style](#!content/book-notes/sense-of-style/index.md) > Chapter 1: Good writing
-
-# Chapter 1: Good Writing
+# Good Writing
 
 ## Key ideas:
 * The starting point of good writing is good reading
