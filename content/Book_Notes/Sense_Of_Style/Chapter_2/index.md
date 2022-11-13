@@ -35,7 +35,7 @@ Spoken communication is very different from written communication. In spoken com
 * Text looks like a form of table of contents.
 * The list is too long for reader to keep in working memory, and hence it doesn't serve any good.
 * Sometimes a little bit of signposting might be used to anchor the thoughts, but must be done carefully
-### Not treating reader as a "viewer", or being there with you seeing what you see
+### Not treating reader as a viewer, or being there with you seeing what you see
 * Referring to something that is said as "as it was said in previous paragraph", rather than "as we have seen"
 ### Summary not self contained
 * Forcing the reader to jump back to previously read text to understand it
