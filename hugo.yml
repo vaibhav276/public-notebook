@@ -1,5 +1,20 @@
-baseURL: 'https://example.org/'
+baseURL: 'https://276vaibhav.github.com/'
 languageCode: 'en-us'
 title: 'Notebook'
 theme: hugo-notebook-theme
-sectionPagesMenu: main
+menu:
+  main:
+    - name: Home
+      url: /
+      identifier: home
+      weight: 1
+    - name: Posts
+      url: posts/
+      identifier: posts
+      weight: 2
+    - name: Book Notes
+      url: book-notes/
+      identifier: book-notes
+      weight: 3
+params:
+  footer: '&copy; Vaibhav Pujari, 2024'

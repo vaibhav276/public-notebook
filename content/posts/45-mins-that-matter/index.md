@@ -1,6 +1,8 @@
-## 45 minutes that matter
-
-*Jun 28, 2018*
+---
+title: '45 Mins That Matter'
+date: 2018-06-28
+tags: musing
+---
 
 One of the things that have worked well for me in the past few years of my career is that I have had the good fortune to interact with all kinds of people who applied for a position of software engineer in the company that I work for. While each interview I conduct is different from another in many ways because its dependent on many variables, there is one common thing that I say to the candidate almost every time — that the interview is going to last for about 45 to 60 mins and we will go through some programming exercises during this time. No one seemed to object to this, but I started wondering over time whether this is at all sufficient to evaluate fitness for a programming job. We’re talking about a couple of simple to mid level complexity programming problems and doing our best to triangulate the skill level of a real person based on, what I would say, very much a hunch in the end. Sure, we do note down some indicators that help in making an educated guess, but the sample size is too small for any serious conclusion. This is not a problem that is unique to programming interviews, there are many problems that don’t yield to an objective evaluation readily, and we deal with those problems by using much more “scientific” methods than this. For instance, in a regular data analysis task, we typically take tens or even thousands of samples to converge to an answer that is expected to be taken seriously by anyone. This is a common understanding we have among each other when we are working on real world problems, yet this is not the common understanding we have when we’re evaluating a person for a programming job.
 

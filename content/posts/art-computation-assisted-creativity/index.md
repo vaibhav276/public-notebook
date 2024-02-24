@@ -1,6 +1,9 @@
-## Art, Computational and Assisted Creativity
-
-*Jul 12, 2019*
+---
+title: 'Art, Computation and Assisted Creativity'
+date: 2019-07-12
+draft: true
+tags: musing
+---
 
 This is an essay about how I see art, what I think computational creativity is and some things I would like to express about assisted creativity. Before I begin, here is a disclaimer. I am not an artist, neither I am a computer scientist or an Artificial intelligence practitioner. I am just a software engineer, who keeps hearing about these things from various people around me and have thus formed an opinion on these things. I don’t have any authority to influence what the definitions of these things actually are, and also don’t expect most people to agree on my views. All I want from this essay is to express my views and hope to stir some conversations among some groups of people, and I would be lucky to get some criticisms from smarter people.
 
@@ -21,10 +24,7 @@ Art also is not a selected combination from a sea of valid combinations. At leas
 ### Properties of Art
 Perhaps more important than the definition of art is what properties a work of art has. Or what value does it provide, if not a utilitarian one? Here’s an example of a piece of art.
 
-<p style="text-align: center;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg" width="800px">
-</p>
-<p style="text-align: center;"><em>Image Courtesy: Wikipedia</em></p>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg" title="The last supper" alt="The last supper" width="600px" >}}
 
 It tells us quite a bit about the life and times of the painter (Leonardo). It tells us about the society in which this work was produced, what values were considered virtues of the society and to some extent the general level of importance people would give to religious guidelines. It also tells us quite a bit about the color palette and its relation to the things which the painter would have wanted to express. Or is it just one of the combinations of random colors, and all the above things are what my mind created while I saw this painting? There is certainly a high amount of subjectivity involved both in the mind of the painter and the observer. Perhaps, the people of 23rd century will interpret this painting as completely different than most people today would. But I think that is the vital point — subjectivity. In absence of subjectivity, it truly is just a combination of colors and canvas behind it.
 

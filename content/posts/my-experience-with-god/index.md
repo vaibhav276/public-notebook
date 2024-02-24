@@ -1,7 +1,7 @@
-## My Experience with God
-
-*Oct 19, 2014*
-
+---
+title: 'My Experience With God'
+date: 2014-10-19
+---
 Ever since I was a child, I have always found myself questioning the established norms about religion and god. The image of lord Ram with a bow and arrow, lord Krishna with a flute, or lord Ganesha with a elephant head and a bulbous belly are all examples of things that are so natural to one’s imagination. On the evening of Diwali, we used to keep our front door open and light up the whole house hoping for goddess Lakshmi to walk in and bless our home with ceaseless wealth and prosperity and on the evening of Holi, we used to burn the symbol of evil and feel tremendous about it. And this, by the way, is not just our way of living, its actually of most people I knew.
 
 Until I went to college and started by professional life, all these things kept bubbling up in the mind but never substantiated into anything debatable. Also, living in a typical Hindu family, it was also not encouraged to go too far in the direction I kept wandering into. Whenever I talked to other people about how strange I find to believe in the stories of Ramayana and Mahabharata, I used to get answers like — “These dharma-granthas (epics) are thousands of years old. There must me some truth in them, otherwise why would everyone follow them”. I have even had furious arguments about whether airplane was invented by Wright brothers in 1903 or by some guy in the times of Ramayana. What a waste of time.

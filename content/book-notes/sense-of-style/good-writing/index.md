@@ -1,5 +1,7 @@
-# Good Writing
-
+---
+title: 'Good Writing'
+draft: true
+---
 ## Key ideas:
 * The starting point of good writing is good reading
 * Writing is not about following an obstacle course. Its supposed to be fun, motivating  and pleasurable.

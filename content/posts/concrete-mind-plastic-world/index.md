@@ -1,7 +1,9 @@
-## Concrete mind in a plastic world
-
-*Jan 2, 2020*
-
+---
+title: 'Concrete Mind Plastic World'
+date: 2020-01-02
+draft: true
+tags: musing
+---
 I was born in 1985. And the world has certainly changed quite a bit since then. And I can't help but reflect back on the role technology has played in it. But have I examined it properly?
 
 ### Old world

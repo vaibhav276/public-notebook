@@ -1,20 +1,12 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
+    <h1>List</h1>
+    {{ partial "breadcrumb.html" . }}
 
-{{if not .IsHome }}
-<h1>{{ .Title | markdownify }}</h1>
-{{ end }}
+    {{ .Content }}
 
-{{ .Content }}
-
-<ul>
-    {{ $pages := .Pages }}
-    {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
-    {{ range (where $pages "Section" "!=" "") }}
-    <li>
-        <span class="date">{{ .Date.Format "2006-Jan-02" }}</span>
-        <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-    </li>
+    {{ range .Pages }}
+    <ul>
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    </ul>
     {{ end }}
-</ul>
-
-{{ partial "footer.html" . }}
+{{ end }}

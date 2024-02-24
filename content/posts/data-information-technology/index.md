@@ -1,6 +1,9 @@
-## Data, Information and Technology
-
-*Oct 23, 2020*
+---
+title: 'Data, Information and Technology'
+date: 2020-10-23
+draft: true
+tags: musing
+---
 
 ### The shadow of a mammoth looms upon us
 Are we living in a world that is about to spin out of our control very soon and cause imbalances in nature like never before? Latest statistics from the almighty video sharing platform Youtube shows that we are uploading in excess of 500 hours of video content every minute and watching more than a billion hours of content every day. And this is just one service out of thousands of popular data accumulation services out there. Even if we take the top five most popular technology companies in consumer software domain, we will find hundreds of services which are specifically designed to collect more and more data from its users and also to keep growing the number of users. There is vitually no limit to how far we seem to want to go before we will satisfy our desire to "win" by means of data.

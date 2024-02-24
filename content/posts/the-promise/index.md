@@ -1,6 +1,9 @@
-## The Promise
-
-*Aug 21, 2020*
+---
+title: 'The Promise'
+date: 2020-08-21
+draft: true
+tags: musing, poem
+---
 
 ```text
 I sit down for a moment
