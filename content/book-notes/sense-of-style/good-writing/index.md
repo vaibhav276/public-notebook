@@ -1,6 +1,5 @@
 ---
 title: 'Good Writing'
-draft: true
 ---
 ## Key ideas:
 * The starting point of good writing is good reading

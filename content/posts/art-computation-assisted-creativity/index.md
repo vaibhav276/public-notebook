@@ -1,7 +1,6 @@
 ---
 title: 'Art, Computation and Assisted Creativity'
 date: 2019-07-12
-draft: true
 tags: musing
 ---
 

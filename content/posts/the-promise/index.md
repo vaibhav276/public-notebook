@@ -1,7 +1,6 @@
 ---
 title: 'The Promise'
 date: 2020-08-21
-draft: true
 tags: musing, poem
 ---
 
