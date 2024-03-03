@@ -1,0 +1,14 @@
+---
+title: 'Speed Limit of Morality'
+date: 2023-03-01
+---
+
+If your eyes had the ability to see everything that is in front of them, you would be blinded by the amount of detail. If your ears had the ability to hear every sound around you, you would go practically deaf. It is not just the ability of the sense organs to consume information around us that makes them useful, it is also their ability to apply heuristics on the information to filter and process it before it is presented to consciousness. Well, maybe not the sense organs alone, but them and the brain together anyways. Reality is just too much or too fast for the rational mind.
+
+Due to this mismatch in speed that exists between reality and rationality, we are presented with this interesting question - is something like morality (assuming it is of rational kind) appropriate to be applied in real time? If morality is applied in real time, it is applied on reality which is far ahead of it, or far bigger than it. We start running into the problem of induction here. The best chance morality has is to hope that the significant parts of current reality are exactly compliant with the partial and past reality which was used to arrive at it. To me, it seems like a huge assumption without much legs.
+
+David Fincher portrays this excellently in his movie The Social Network, where Mark Zuckerberg (played by Jesse Eisenberg) is trying so hard to catch up with reality that is running too fast and trying to stay moral while doing that. Sort of like a pianist trying to play a piece of music too fast and hoping the fingers land on the right keys, or a teenager trying to drive a car too fast and hoping no traffic rules are violated. The movie successfully portrayed the compromise one has to make being a part of reality. Is it moral to make a moral decision?
+
+Another way to go about it could be to try inculcating morality into the non-rational mind. In that world, one just does morally correct things without thinking about them, or even being aware of them until later on when its effects are visible. This would be akin to a great pianist just playing a piece of music without being aware of each finger's individual movement, at least not until the finger has already set into motion. But what are morally correct decisions, categorically? Aren't these the ones produced after careful analysis of the situation at hand? Can one really take a morally correct decision intuitively? Of course one can do the right thing by following intuition or even by accident, but I wouldn't be sure about calling it moral decision making.
+
+The process of moral decision making, as we define it, is bound to have a very harsh speed limit (or scope limit). We must accept either this limit or we must change the definition of moral decision making to include intuition.
