@@ -49,7 +49,7 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build tailwind css in theme
-        working-directory: ./themes/my-hugo-notebook-theme
+        working-directory: themes/my-hugo-notebook-theme
         run: npm run build-tw
       - name: Build with Hugo
         env:
