@@ -1,0 +1,3 @@
+[submodule "themes/my-hugo-notebook-theme"]
+	path = themes/my-hugo-notebook-theme
+	url = https://github.com/vaibhav276/my-hugo-notebook-theme

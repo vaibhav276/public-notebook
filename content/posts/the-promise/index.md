@@ -1,10 +1,12 @@
 ---
 title: 'The Promise'
 date: 2020-08-21
-tags: musing, poem
+tags: 
+    - musing 
+    - poem
 ---
 
-```text
+```
 I sit down for a moment
 just to try and unwind
 I promise myself

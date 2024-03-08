@@ -1,7 +1,7 @@
 baseURL: 'https://276vaibhav.github.com/'
 languageCode: 'en-us'
 title: 'Notebook'
-theme: hugo-notebook-theme
+theme: my-hugo-notebook-theme
 menu:
   main:
     - name: Home
@@ -9,11 +9,11 @@ menu:
       identifier: home
       weight: 1
     - name: Posts
-      url: posts/
+      url: /posts/
       identifier: posts
       weight: 2
     - name: Book Notes
-      url: book-notes/
+      url: /book-notes/
       identifier: book-notes
       weight: 3
 params:
